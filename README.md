@@ -19,7 +19,6 @@ Files:</br>
 
 ## Evaluate Model Performance
 - Determine which model had the lowest loss. - The model using closing prices
-</br>
 - Determine which model tracks the actual values best over time. - The model using closing prices.
 - Determine the appropriate Window Size for the model.  - 10 Day window for the closing price seemed to be the best.
 

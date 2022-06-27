@@ -22,5 +22,5 @@ Files:</br>
 - Determine which model tracks the actual values best over time. - The model using closing prices.
 - Determine the appropriate Window Size for the model.  - 10 Day window for the closing price seemed to be the best.
 
-![Closing Price](images/lstm_stock_predictor_closing.png)
-![Fear and Greed Price](images/lstm_stock_predictor_fng.png)
+![Closing Price](Images/lstm_stock_predictor_closing.png)
+![Fear and Greed Price](Images/lstm_stock_predictor_fng.png)
